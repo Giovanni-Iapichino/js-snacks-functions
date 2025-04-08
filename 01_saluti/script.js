@@ -7,8 +7,8 @@ function saluta(name) {
   return `Ciao ${name}`;
 }
 
-// Versione alternativa con arrow function
-// const saluta = name => `Ciao ${name}`;
+//TODO Versione alternativa con arrow function
+//* const saluta = name => `Ciao ${name}`;
 
 // Invoca la funzione qui e stampa il risultato in console
 saluta(userName);
